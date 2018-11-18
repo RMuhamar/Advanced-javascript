@@ -13,7 +13,7 @@ const mapArray = array.map(num => num + 2 );
 console.log('map',mapArray);
 
 // filter
-const filterArray = array.filter(num => num>5);
+const filterArray = array.filter(num => num > 5);
 console.log('filter',filterArray);
 
 //reduce
